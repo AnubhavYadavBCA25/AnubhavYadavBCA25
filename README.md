@@ -21,71 +21,25 @@ Hi! I'm Anubhav Yadav, a dedicated data science student with a passion for turni
 # Skills
 
 ## Programming Languages
-- Python
-  <div class="progress">
-    <div class="progress-bar" style="width: 80%;">80%</div>
-  </div>
-
-- R
-  <div class="progress">
-    <div class="progress-bar" style="width: 70%;">70%</div>
-  </div>
+- Python: :star::star::star::star: (Proficient)
+- SQL: :star::star::star: (Intermediate)
+- R: :star: (Basic)
 
 ## Data Science Tools
-- Jupyter Notebook
-  <div class="progress">
-    <div class="progress-bar" style="width: 90%;">90%</div>
-  </div>
-
-- Pandas
-  <div class="progress">
-    <div class="progress-bar" style="width: 85%;">85%</div>
-  </div>
-
-- NumPy
-  <div class="progress">
-    <div class="progress-bar" style="width: 80%;">80%</div>
-  </div>
+- Jupyter Notebook: :star::star::star::star: (Proficient)
+- Pandas: :star::star::star: (Intermediate)
+- Scikit-Learn: :star::star::star: (Intermediate)
+- NumPy: :star::star: (Basic)
+- Tensorflow: :star::star: (Basic) 
 
 ## Data Visualization
-- Matplotlib
-  <div class="progress">
-    <div class="progress-bar" style="width: 85%;">85%</div>
-  </div>
+- Matplotlib: :star::star::star: (Intermediate)
+- Seaborn: :star::star::star: (Intermediate)
+- Plotly: :star::star: (Beginner)
 
-- Seaborn
-  <div class="progress">
-    <div class="progress-bar" style="width: 80%;">80%</div>
-  </div>
-
-- Plotly
-  <div class="progress">
-    <div class="progress-bar" style="width: 75%;">75%</div>
-  </div>
-
-/* CSS for Progress Bars */
-.progress {
-  height: 10px;
-  background-color: #f0f0f0;
-  border-radius: 5px;
-  margin-bottom: 10px;
-}
-
-.progress-bar {
-  height: 100%;
-  color: #fff;
-  text-align: center;
-  line-height: 10px;
-  border-radius: 5px;
-  background-color: #007bff;
-  animation: progress-animation 2s ease-out;
-}
-
-@keyframes progress-animation {
-  from {
-    width: 0;
-  }
-}
+## Database Management
+- MySQL: :star::star::star: (Intermediate)
+- BigQuery (Cloud SQL): :star::star: (Basic)
 
 ## GitHub Stats 📊
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavYadavBCA25&show_icons=true&theme=radical)
@@ -96,4 +50,4 @@ Hi! I'm Anubhav Yadav, a dedicated data science student with a passion for turni
 ## Connect with Me 🌐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anubhav-yadav-srm/)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/anubhavv.701)
-[Email](mailto:anubhavyadav77ff@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=email&logoColor=white)](mailto:anubhavyadav77ff@gmail.com)
