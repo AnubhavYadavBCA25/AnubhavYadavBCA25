@@ -8,3 +8,6 @@ Hi! I'm Anubhav Yadav, a passionate aspiring data science student and lifelong l
 - 💬 Ask me about: Data Science
 - 📫 How to reach me: https://www.linkedin.com/in/anubhav-yadav-srm
 - ⚡ Fun fact: I am boring
+
+## Top Languages 💻
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavYadavBCA25&layout=compact&theme=radical)
