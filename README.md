@@ -46,7 +46,7 @@ Hi! I'm Anubhav Yadav, a dedicated data science student with a passion for turni
 ### 📧 Spam Classification Project
 [![Spam Classification Project](https://img.shields.io/badge/Spam_Classification-Project-blue?style=for-the-badge&logo=github)](https://github.com/AnubhavYadavBCA25/spam-classification-project)
 
-![Spam Classification Web Application](https://spam-classification-project.streamlit.app/)
+Spam Classification Web Application: https://spam-classification-project.streamlit.app/
 
 **Description**: This project aims to classify emails as spam or not spam using various machine learning algorithms. It involves data cleaning, feature extraction, model training, evaluation, model testing and web application deployment using Streamlit.
 
