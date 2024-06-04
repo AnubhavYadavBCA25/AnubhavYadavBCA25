@@ -21,7 +21,7 @@ Hi! I'm Anubhav Yadav, a dedicated data science student with a passion for turni
 # Skills
 
 ## Programming Languages
-- Python: :star::star::star::star: (Proficient)
+- Python: :star::star::star: (Intermediate)
 - SQL: :star::star::star: (Intermediate)
 - R: :star: (Basic)
 
