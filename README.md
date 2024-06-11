@@ -51,7 +51,7 @@ Spam Classification Web Application: https://spam-classification-project.streaml
 **Description**: This project aims to classify emails as spam or not spam using various machine learning algorithms. It involves data cleaning, feature extraction, model training, evaluation, model testing and web application deployment using Streamlit.
 
 ### 🏠 House Price Prediction Project
-[![House Price Prediction](https://img.shields.io/badge/Spam_Classification-Project-blue?style=for-the-badge&logo=github)](https://github.com/AnubhavYadavBCA25/House-Price-Prediction)
+[![House Price Prediction](https://img.shields.io/badge/House-Price-Prediction-blue?style=for-the-badge&logo=github)](https://github.com/AnubhavYadavBCA25/House-Price-Prediction)
 
 House Price Prediction Web Application: https://house-price-prediction-2024.streamlit.app/
 
