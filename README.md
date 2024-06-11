@@ -50,6 +50,13 @@ Spam Classification Web Application: https://spam-classification-project.streaml
 
 **Description**: This project aims to classify emails as spam or not spam using various machine learning algorithms. It involves data cleaning, feature extraction, model training, evaluation, model testing and web application deployment using Streamlit.
 
+### 🏠 House Price Prediction Project
+[![House Price Prediction](https://img.shields.io/badge/Spam_Classification-Project-blue?style=for-the-badge&logo=github)](https://github.com/AnubhavYadavBCA25/House-Price-Prediction)
+
+House Price Prediction Web Application: https://house-price-prediction-2024.streamlit.app/
+
+**Description**: This project is to develop a machine learning model that accurately predicts house prices in King County, USA, based on various property features. By analyzing and leveraging the "House Sales in King County" dataset, the project aims to identify key factors influencing home values and provide a reliable tool for estimating market prices.
+
 ## GitHub Stats 📊
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavYadavBCA25&show_icons=true&theme=radical)
 
