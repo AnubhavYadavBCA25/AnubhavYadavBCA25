@@ -12,7 +12,7 @@
 Hi! I'm Anubhav Yadav, a dedicated data science student with a passion for turning data into actionable insights. I love working on projects that involve machine learning, data visualization, and statistical analysis.
 
 - 🎓 Pursuing BCA in Data Science
-- 🔭 I’m currently working on: Caption Generation (CapBot) Project
+- 🔭 I’m currently working on: Spotify Data Analysis
 - 🌱 I’m currently learning: Data Science, Machine Learning, ,Deep Learning, GenAI and More...
 - 💼 Looking for: Internship opportunities in Data Science or Data Analysis
 - 📝 Interested in: Data Science, Data Analysis, Machine Learning, AI, and Big Data
