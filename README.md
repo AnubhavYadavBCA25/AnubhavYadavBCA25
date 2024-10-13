@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Pursuing BCA in Data Science<br>🔭 I’m currently working on: Spotify Data Analysis<br>🌱 I’m currently learning: Data Science, Machine Learning, ,Deep Learning, GenAI and More...<br>💼 Looking for: Internship opportunities in Data Science or Data Analysis<br>📝 Interested in: Data Science, Data Analysis, Machine Learning, AI, and Big Data<br>⚡ Fun fact: I am boring
+🎓 Pursuing BCA in Data Science<br>🔭 I’m currently working on: Aurora: AI Powered Data Analytics Tool<br>🌱 I’m currently learning: Data Science, Machine Learning, ,Deep Learning, GenAI and More...<br>💼 Looking for: Internship opportunities in Data Science or Data Analysis<br>📝 Interested in: Data Science, Data Analysis, Machine Learning, AI, and Big Data<br>⚡ Fun fact: I am boring
 
 
 ## 🌐 Socials:
